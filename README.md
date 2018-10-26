@@ -15,7 +15,7 @@ Quick start
 
 1. You must create new environment and install requirements.txt
 
-2. Run `python manage.py migrate` to create the django_modern_admin models.
+2. Run `python manage.py migrate` to create the database.
 
 3. You must define in settings.py 
 	```
